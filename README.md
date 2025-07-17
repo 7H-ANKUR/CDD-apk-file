@@ -4,6 +4,9 @@ A mobile application that empowers farmers and agronomists to quickly diagnose c
 
 ---
 
+
+## app is under Release tab
+
 ## Features
 
 - **Crop Selection:** Diagnose diseases for Corn, Potato, Sugarcane, and Rice.
