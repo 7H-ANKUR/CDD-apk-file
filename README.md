@@ -5,7 +5,7 @@ A mobile application that empowers farmers and agronomists to quickly diagnose c
 ---
 
 
-## app is under Release tab
+## App is under Release tab
 
 ## Features
 
